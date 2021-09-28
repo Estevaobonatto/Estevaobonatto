@@ -16,7 +16,7 @@
    <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div> <br>
 
-![Estevaobonatto GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=estevaobonatto&theme=blue-green)
+<!-- ![Estevaobonatto GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=estevaobonatto&theme=blue-green) --->
 
 	
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estevaobonatto&layout=compact)](https://github.com/anuraghazra/github-readme-stats) --->
