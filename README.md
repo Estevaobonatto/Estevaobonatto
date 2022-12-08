@@ -24,7 +24,7 @@
 <!-- ![Estevaobonatto GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=estevaobonatto&theme=blue-green) --->
 
 	
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estevaobonatto&layout=compact)](https://github.com/anuraghazra/github-readme-stats) --->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estevaobonatto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--<div style="display: incline_block">
 	<a href="https://github.com/rafaballerini">              
