@@ -4,11 +4,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/estevaobonatto002/)
 <!--[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]() -->
 
-<!--![Estevaobonatto GitHub stats](https://github-readme-stats.vercel.app/api?username=estevaobonatto&show_icons=true&theme=chartreuse-dark)-->
+<!--![Estevaobonatto GitHub stats](https://github-readme-stats.vercel.app/api?username=estevaobonatto&show_icons=true&theme=chartreuse-dark)
 <div style="display: incline_block">
 	<a href="https://github.com/rafaballerini">        
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=estevaobonatto&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>    
-</div>
+</div>-->
 
 
 ### Tecnologias mais utilizadas
